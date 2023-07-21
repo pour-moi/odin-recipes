@@ -1,0 +1,8 @@
+@font-face {
+  font-family: "Averta";
+  src: url(AvertaDemoPECuttedDemo-Regular.otf);
+}
+* {
+  font-family: "Averta";
+  font-size: 18px;
+}
