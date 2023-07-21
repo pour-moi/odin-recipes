@@ -1,0 +1,1 @@
+This website is a collection of food and drink recipes, created as part of a project from The Odin Project. It features a variety of recipes for all organized into easy-to-navigate categories. The site is built using HTML, with minimal CSS for setting the fonts and background color. The goal of this project was to create to build a basic recipe website.
